@@ -21,7 +21,7 @@ Install the required Python packages using the following command:
 
 ```bash
 pip install pandas numpy nltk textblob spacy tensorflow matplotlib
-```bash
+exit
 📥 Installation
 1.Clone the repository:
 
