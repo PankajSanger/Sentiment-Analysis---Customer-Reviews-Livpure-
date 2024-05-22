@@ -1,40 +1,40 @@
-<div align="center">
-  <h1>Livpure Reviews Sentiment Analysis 🚀</h1>
-  <p>Unlock the power of sentiment analysis! Dive into Livpure customer reviews and discover insights with cutting-edge deep learning techniques.</p>
-</div>
-🚀 Getting Started
-🔧 Prerequisites
+# Livpure Reviews Sentiment Analysis 🚀
+
+Unlock the power of sentiment analysis! Dive into Livpure customer reviews and discover insights with cutting-edge deep learning techniques.
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
 
 Before you get started, ensure you have the following dependencies installed:
 
-Python 3.x
-pandas
-numpy
-nltk
-textblob
-spacy
-tensorflow
-matplotlib
+- Python 3.x
+- pandas
+- numpy
+- nltk
+- textblob
+- spacy
+- tensorflow
+- matplotlib
 
 Install the required Python packages using the following command:
 
-bash
-Copy code
+```bash
 pip install pandas numpy nltk textblob spacy tensorflow matplotlib
 
 📥 Installation
-Clone the repository:
-bash
-Copy code
+1.Clone the repository:
+
 git clone https://github.com/your_username/livpure-reviews-sentiment-analysis.git
 
-Navigate to the project folder:
-bash
-Copy code
+2.Navigate to the project folder:
+
 cd livpure-reviews-sentiment-analysis
-Execute the sentiment analysis script or notebook.
+
+3.Execute the sentiment analysis script or notebook.
 
 📊 Data Import and Preprocessing
+
 Import Livpure reviews data from the provided CSV file using pandas.
 Handle missing values in the dataset.
 Perform robust text preprocessing, including lowercasing, punctuation removal, chat word translation, spelling correction, stop words removal, lemmatization, and tokenization.
